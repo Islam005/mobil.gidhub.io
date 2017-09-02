@@ -1,0 +1,15 @@
+body{ background-image: url(../img/font.jpg); }
+
+#mainhead{ text-align: center; margin: 0.5%; height: 9%; width: 80%; text-align: center; }
+
+
+#maincontent{ margin: 0.5%; height: 85%; width: 80%; background: #ccc; text-align: center; }
+
+#mainfooter{ text-align: center; height: 5%; width: 80%; background: #ccc;font-size: 25px;color: #ccc;}
+
+*{ text-decoration: none; /*Убирает подчеркивания*/ }
+
+a{ color: #fafafa; }
+
+#menu{ margin: 10px; background: #87CEEB; opacity: 0.7; border-radius: 8px; font-size: 25px; display: inline-block;}
+#menu:hover{background: #F08080; border-radius: 20px;}
